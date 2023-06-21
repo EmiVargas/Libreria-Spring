@@ -4,9 +4,13 @@ Este proyecto es una aplicación de biblioteca desarrollada utilizando Java y Sp
 
 CARACTERÍSTICAS
   -Registro de usuarios: Los usuarios pueden registrarse en la aplicación para acceder a funcionalidades adicionales.
+  
   -Búsqueda de libros: Los usuarios pueden buscar libros por título, autor u otra información relevante.
+  
   -Gestión de libros: Los administradores pueden agregar, editar y eliminar libros de la biblioteca.
+  
   -Gestión de autores:Los administradores pueden agregar, editar y eliminar libros de la biblioteca.
+  
   -Gestión de editoriales: Los administradores pueden agregar, editar y eliminar libros de la biblioteca.
 
 TECNOLOGÍAS UTILIZADAS
