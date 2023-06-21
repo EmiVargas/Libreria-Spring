@@ -26,9 +26,11 @@ CONFIGURACIÓN DEL PROYECTO
         spring.datasource.password=your-password
 
   -Ejecuta el siguiente comando para compilar el proyecto y resolver las dependencias:
+        
         mvn compile
 
   -Ejecuta el siguiente comando para iniciar la aplicación:
+       
         mvn spring-boot:run
       
   -La aplicación estará disponible en http://localhost:8080. Abre esta URL en tu navegador para acceder a la aplicación de biblioteca.
